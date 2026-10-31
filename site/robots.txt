@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://siawhui-code.github.io/Alyst-Website-Pages/sitemap.xml
+Sitemap: https://www.alyststudio.com/sitemap.xml
