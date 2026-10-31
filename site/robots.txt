@@ -1,0 +1,7 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://siawhui-code.github.io/Alyst-Website-Pages/sitemap.xml
